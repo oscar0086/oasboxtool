@@ -1,0 +1,35 @@
+/*
+ * Description: Oasbox tools
+ * Build 2020/4/6 02:00
+ * Copyright: ZEEbrand.net
+ * Author: ZeeBrand.net
+ * Author URI: http://zeebrand.net
+ * Version: 1.0
+ */
+
+body {
+    margin: 0;
+    font-family: "Cerebri Sans",sans-serif;
+    font-size: .9375rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #12263f;
+    text-align: left;
+    background-color: #f9fbfd;
+}
+.card {
+    position: relative;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid #edf2f9;
+    border-radius: .5rem;    
+    margin-bottom: 1.5rem;
+    border-color: #edf2f9;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03);
+}
